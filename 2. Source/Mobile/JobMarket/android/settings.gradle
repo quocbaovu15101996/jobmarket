@@ -1,0 +1,3 @@
+rootProject.name = 'JobMarket'
+
+include ':app'
